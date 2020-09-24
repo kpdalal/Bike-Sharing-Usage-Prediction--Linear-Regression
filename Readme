@@ -2,4 +2,4 @@
 The data is collected from multiple public sources
 The model takes into account the weather conditions in the city as well as the nature of the day like weekday/ holiday/ weekend.
 
-There is a seasonality in the data and follows a cyclic trend
+There is a seasonality in the data and follows a cyclic trend.
